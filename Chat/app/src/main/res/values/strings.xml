@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Chat</string>
+    <string name="HelloWorld">HelloWord</string>
+    <string name="link">link</string>
 </resources>
